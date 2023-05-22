@@ -1,0 +1,27 @@
+body {
+    width: 200px;
+    margin: 0 auto;
+}
+
+#header-logo {
+    width: 100%;
+
+}
+
+/*ul {
+    display: flex;
+    justify-content: space-between;
+}*/
+ul li {
+    display: inline-block;
+}
+
+.img-gallery {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: ;
+}
+.img-gallery img {
+    width: 50%;
+    margin: 5px:
+}
